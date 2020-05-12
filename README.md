@@ -12,6 +12,13 @@ For instance, a bullet-point list is created like this:
 * item two
 * item three
 
-
-
 then.... commit changes [important!!!!]
+
+
+NOW WE WILL ADD AN IMAGE TO THE README LIKE THIS:
+
+![](https://github.com/matdwlv/test-repo/blob/master/Screenshot%202020-05-10%20at%2019.57.47.png)
+
+
+
+
